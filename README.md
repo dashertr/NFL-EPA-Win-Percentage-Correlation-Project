@@ -1,2 +1,2 @@
 # NFL-EPA-Win-Pct.-Correlation
-Analysis of NFL team performance metrics (offensive and defensive) and their correlation to win percentages over several seasons.
+This project aims to explore the relationship between Expected Points Added (EPA) and win percentage in football games. It involves analyzing game data to determine the strength and nature of the correlation between these metrics, which can provide insights into team performance and decision-making in various game situations.
